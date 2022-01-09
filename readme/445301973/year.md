@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/somekindofwallflower/my-views-counter)
 
-### :octocat: [instagram-clone-laravel-project](https://github.com/somekindofwallflower/instagram-clone-laravel-project)
-![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435674792/large/year.png)
+### :octocat: [free-code-camp](https://github.com/somekindofwallflower/free-code-camp)
+![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/445301973/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/435674792/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435674792/week.md)
+[![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/445301973/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/445301973/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/435674792/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435674792/week.md)
+[![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/445301973/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/445301973/week.md)
 ```
 ### Header
-# instagram-clone-laravel-project [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435674792/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435674792/year.md)
+# free-code-camp [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/445301973/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/445301973/year.md)
 ```readme
-# instagram-clone-laravel-project [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435674792/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435674792/year.md)
+# free-code-camp [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/445301973/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/445301973/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
