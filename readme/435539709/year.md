@@ -23,10 +23,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>181</code>
+			<code>183</code>
 		</td>
 		<td>
-			<code>720</code>
+			<code>724</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/1/25 6:17 PM UTC</i></small>
+<small><i>Last updated on 2022/1/26 12:51 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
