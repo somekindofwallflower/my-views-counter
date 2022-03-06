@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/419853664/year.md">
+				complete-react-course-2021
+			</a>
+		</td>
+		<td>
+			2022/3/4 12:56 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419853664/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435672982/year.md">
 				course-goals-react-project
 			</a>
@@ -421,7 +437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/6 12:23 PM UTC</i></small>
+<small><i>Last updated on 2022/3/6 6:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
