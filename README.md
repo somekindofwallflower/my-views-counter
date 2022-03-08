@@ -197,6 +197,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435674792/year.md">
+				instagram-clone-laravel-project
+			</a>
+		</td>
+		<td>
+			2022/3/6 12:52 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435674792/small/year.png" height="20"> 58
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/451603613/year.md">
 				interview_questions_2022
 			</a>
@@ -357,22 +373,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435542286/year.md">
-				react-projects-2021
-			</a>
-		</td>
-		<td>
-			2022/3/6 12:54 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435542286/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435539709/year.md">
 				somekindofwallflower
 			</a>
@@ -421,7 +421,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/8 12:54 AM UTC</i></small>
+<small><i>Last updated on 2022/3/8 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
