@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:52 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			11
+			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419855223/small/year.png" height="20"> 25
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419855223/small/year.png" height="20"> 29
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:00 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			192
+			198
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 749
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 770
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:53 AM UTC
+			2022/3/6 12:50 AM UTC
 		</td>
 		<td>
 			7
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:53 AM UTC
+			2022/3/6 12:51 AM UTC
 		</td>
 		<td>
 			1
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:53 AM UTC
+			2022/3/6 12:51 AM UTC
 		</td>
 		<td>
 			9
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:53 AM UTC
+			2022/3/6 12:51 AM UTC
 		</td>
 		<td>
 			4
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:54 AM UTC
+			2022/3/6 12:51 AM UTC
 		</td>
 		<td>
 			7
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:54 AM UTC
+			2022/3/6 12:51 AM UTC
 		</td>
 		<td>
 			13
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:00 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			94
+			96
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 284
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 289
 		</td>
 	</tr>
 	<tr>
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:54 AM UTC
+			2022/3/6 12:52 AM UTC
 		</td>
 		<td>
 			4
@@ -186,29 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:54 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			30
+			31
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434376698/small/year.png" height="20"> 91
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435674792/year.md">
-				instagram-clone-laravel-project
-			</a>
-		</td>
-		<td>
-			2022/3/5 12:54 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435674792/small/year.png" height="20"> 58
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434376698/small/year.png" height="20"> 92
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:55 AM UTC
+			2022/3/6 12:52 AM UTC
 		</td>
 		<td>
 			1
@@ -234,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:55 AM UTC
+			2022/3/6 12:52 AM UTC
 		</td>
 		<td>
 			5
@@ -250,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:55 AM UTC
+			2022/3/6 12:53 AM UTC
 		</td>
 		<td>
 			33
@@ -266,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:55 AM UTC
+			2022/3/6 12:53 AM UTC
 		</td>
 		<td>
 			30
@@ -282,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:55 AM UTC
+			2022/3/6 12:53 AM UTC
 		</td>
 		<td>
 			4
@@ -298,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:56 AM UTC
+			2022/3/6 12:53 AM UTC
 		</td>
 		<td>
 			7
@@ -314,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:56 AM UTC
+			2022/3/6 12:53 AM UTC
 		</td>
 		<td>
 			7
@@ -330,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:00 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			76
+			77
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/439741534/small/year.png" height="20"> 258
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/439741534/small/year.png" height="20"> 259
 		</td>
 	</tr>
 	<tr>
@@ -346,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:56 AM UTC
+			2022/3/6 12:54 AM UTC
 		</td>
 		<td>
 			65
@@ -362,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:56 AM UTC
+			2022/3/6 12:54 AM UTC
 		</td>
 		<td>
 			20
@@ -378,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:56 AM UTC
+			2022/3/6 12:54 AM UTC
 		</td>
 		<td>
 			2
@@ -394,13 +378,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:00 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			416
+			418
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 1642
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 1647
 		</td>
 	</tr>
 	<tr>
@@ -410,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:57 AM UTC
+			2022/3/6 12:54 AM UTC
 		</td>
 		<td>
 			8
@@ -426,18 +410,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/5 12:57 AM UTC
+			2022/3/6 12:00 AM UTC
 		</td>
 		<td>
-			1
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/450260592/small/year.png" height="20"> 3
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/450260592/small/year.png" height="20"> 5
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/7 6:20 PM UTC</i></small>
+<small><i>Last updated on 2022/3/8 12:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
