@@ -346,13 +346,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/6/5 12:07 PM UTC
+			2022/6/6 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/500419354/small/year.png" height="20"> 56
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/500419354/small/year.png" height="20"> 64
 		</td>
 	</tr>
 	<tr>
@@ -453,7 +453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/6/8 12:08 PM UTC</i></small>
+<small><i>Last updated on 2022/6/8 6:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
