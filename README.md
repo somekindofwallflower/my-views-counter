@@ -405,22 +405,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435539709/year.md">
-				somekindofwallflower
-			</a>
-		</td>
-		<td>
-			2022/7/6 12:00 AM UTC
-		</td>
-		<td>
-			647
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 2470
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435679895/year.md">
 				todo-android-app-kotlin
 			</a>
@@ -453,7 +437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/8 12:07 PM UTC</i></small>
+<small><i>Last updated on 2022/7/8 6:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
