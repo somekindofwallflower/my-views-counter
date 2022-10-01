@@ -153,7 +153,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/10/1 6:17 AM UTC</i></small>
+<small><i>Last updated on 2022/10/1 12:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
