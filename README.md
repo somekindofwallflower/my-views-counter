@@ -21,6 +21,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/540768760/year.md">
+				codecademy-courses
+			</a>
+		</td>
+		<td>
+			2022/10/4 12:00 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/540768760/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/540769717/year.md">
+				codecademy-learn-react
+			</a>
+		</td>
+		<td>
+			2022/10/4 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/540769717/small/year.png" height="20"> 56
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/419855223/year.md">
 				coding-interview-preparation
 			</a>
@@ -65,6 +97,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419853664/small/year.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/505335448/year.md">
+				complete-react-guide
+			</a>
+		</td>
+		<td>
+			2022/10/4 7:39 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/505335448/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -293,6 +341,70 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/540201371/year.md">
+				k8sdemo
+			</a>
+		</td>
+		<td>
+			2022/10/4 7:42 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/540201371/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/546235708/year.md">
+				Learn-DevOps-Docker-Kubernetes-Terraform-and-Azure-DevOps-2022
+			</a>
+		</td>
+		<td>
+			2022/10/4 7:42 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/546235708/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/538674926/year.md">
+				live-score
+			</a>
+		</td>
+		<td>
+			2022/10/4 7:42 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/538674926/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/500419354/year.md">
+				microservices-with-node-js-and-react
+			</a>
+		</td>
+		<td>
+			2022/10/5 12:22 AM UTC
+		</td>
+		<td>
+			75
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/500419354/small/year.png" height="20"> 411
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434401511/year.md">
 				modal-window
 			</a>
@@ -337,22 +449,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/439741534/small/year.png" height="20"> 580
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/500419354/year.md">
-				microservices-with-node-js-and-react
-			</a>
-		</td>
-		<td>
-			2022/10/5 12:22 AM UTC
-		</td>
-		<td>
-			75
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/500419354/small/year.png" height="20"> 411
 		</td>
 	</tr>
 	<tr>
@@ -437,6 +533,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/455232029/year.md">
+				Todos-React-TypeScript
+			</a>
+		</td>
+		<td>
+			2022/10/4 7:44 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/455232029/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/450260592/year.md">
 				vr-project
 			</a>
@@ -453,7 +565,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/7 12:10 PM UTC</i></small>
+<small><i>Last updated on 2022/10/7 7:45 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
