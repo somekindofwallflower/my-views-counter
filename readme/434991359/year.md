@@ -1,6 +1,6 @@
 ## [🔙 my-views-counter](https://github.com/somekindofwallflower/my-views-counter)
 
-### :octocat: [pizza-order-laravel-2021](https://github.com/somekindofwallflower/pizza-order-laravel-2021)
+### :octocat: [order-pizza](https://github.com/somekindofwallflower/order-pizza)
 ![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/434991359/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>23</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/11/5 12:08 PM UTC</i></small>
+<small><i>Last updated on 2022/11/5 6:06 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/434991359/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/434991359/week.md)
 ```
 ### Header
-# pizza-order-laravel-2021 [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/434991359/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/434991359/year.md)
+# order-pizza [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/434991359/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/434991359/year.md)
 ```readme
-# pizza-order-laravel-2021 [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/434991359/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/434991359/year.md)
+# order-pizza [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/434991359/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/434991359/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,6 +1,6 @@
 ## [🔙 my-views-counter](https://github.com/somekindofwallflower/my-views-counter)
 
-### :octocat: [full-stack-engineer-2021](https://github.com/somekindofwallflower/full-stack-engineer-2021)
+### :octocat: [codecademy-full-stack-engineer](https://github.com/somekindofwallflower/codecademy-full-stack-engineer)
 ![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435050698/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>6</code>
 		</td>
 		<td>
-			<code>23</code>
+			<code>26</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/11/5 12:05 PM UTC</i></small>
+<small><i>Last updated on 2022/11/5 6:04 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-views-counter](https://github.com/somekindofwallflower/my-views-counter/blob/master/svg/435050698/badge.svg)](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435050698/week.md)
 ```
 ### Header
-# full-stack-engineer-2021 [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435050698/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435050698/year.md)
+# codecademy-full-stack-engineer [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435050698/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435050698/year.md)
 ```readme
-# full-stack-engineer-2021 [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435050698/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435050698/year.md)
+# codecademy-full-stack-engineer [<img alt="Image of my-views-counter" src="https://github.com/somekindofwallflower/my-views-counter/blob/master/graph/435050698/small/year.png" height="20">](https://github.com/somekindofwallflower/my-views-counter/blob/master/readme/435050698/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

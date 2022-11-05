@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/419853664/year.md">
-				complete-react-course-2021
-			</a>
-		</td>
-		<td>
-			2022/11/3 12:14 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419853664/small/year.png" height="20"> 12
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/505335448/year.md">
 				complete-react-guide
 			</a>
@@ -165,22 +149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435670977/year.md">
-				food-order-react-project
-			</a>
-		</td>
-		<td>
-			2022/11/3 12:15 AM UTC
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435670977/small/year.png" height="20"> 62
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/445301973/year.md">
 				free-code-camp
 			</a>
@@ -198,7 +166,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435050698/year.md">
-				full-stack-engineer-2021
+				codecademy-full-stack-engineer
 			</a>
 		</td>
 		<td>
@@ -209,22 +177,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 1233
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/430401254/year.md">
-				github-slideshow
-			</a>
-		</td>
-		<td>
-			2022/11/3 12:15 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/430401254/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -277,22 +229,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/430384478/year.md">
-				intro-react
-			</a>
-		</td>
-		<td>
-			2022/11/3 12:15 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/430384478/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/450834448/year.md">
 				javascript-algorithms-and-data-structures
 			</a>
@@ -310,7 +246,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434374207/year.md">
-				javascript-projects-2021
+				javascript-projects
 			</a>
 		</td>
 		<td>
@@ -470,7 +406,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434991359/year.md">
-				pizza-order-laravel-2021
+				order-pizza
 			</a>
 		</td>
 		<td>
@@ -565,7 +501,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/5 12:09 PM UTC</i></small>
+<small><i>Last updated on 2022/11/5 6:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
