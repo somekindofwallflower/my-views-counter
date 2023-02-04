@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:12 AM UTC
+			2023/2/2 12:11 AM UTC
 		</td>
 		<td>
 			14
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:12 AM UTC
+			2023/2/2 12:11 AM UTC
 		</td>
 		<td>
 			24
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:00 AM UTC
+			2023/2/2 12:11 AM UTC
 		</td>
 		<td>
 			38
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:00 AM UTC
+			2023/2/2 12:00 AM UTC
 		</td>
 		<td>
-			721
+			722
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 2852
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 2856
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:13 AM UTC
+			2023/2/2 12:11 AM UTC
 		</td>
 		<td>
 			0
@@ -101,28 +101,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435672982/year.md">
-				course-goals-react-project
-			</a>
-		</td>
-		<td>
-			2023/2/1 12:13 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435672982/small/year.png" height="20"> 19
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/420033469/year.md">
 				curriculum-vitae
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:13 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			23
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:13 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			9
@@ -154,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:13 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			27
@@ -170,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:00 AM UTC
+			2023/2/2 12:00 AM UTC
 		</td>
 		<td>
-			385
+			386
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 1319
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 1322
 		</td>
 	</tr>
 	<tr>
@@ -186,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:14 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			92
@@ -202,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:14 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			45
@@ -218,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:14 AM UTC
+			2023/2/2 12:12 AM UTC
 		</td>
 		<td>
 			37
@@ -234,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:14 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			113
@@ -250,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:15 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			53
@@ -266,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:15 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			8
@@ -282,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:15 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			2
@@ -298,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:15 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			6
@@ -314,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:15 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			1
@@ -330,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:16 AM UTC
+			2023/2/2 12:13 AM UTC
 		</td>
 		<td>
 			123
@@ -346,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:16 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			29
@@ -362,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:16 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			16
@@ -378,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:16 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			243
@@ -394,13 +378,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:16 AM UTC
+			2023/2/2 12:00 AM UTC
 		</td>
 		<td>
-			234
+			235
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434402475/small/year.png" height="20"> 653
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434402475/small/year.png" height="20"> 654
 		</td>
 	</tr>
 	<tr>
@@ -410,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:00 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			256
@@ -426,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:17 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			7
@@ -442,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:00 AM UTC
+			2023/2/2 12:14 AM UTC
 		</td>
 		<td>
 			804
@@ -458,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:17 AM UTC
+			2023/2/2 12:15 AM UTC
 		</td>
 		<td>
 			20
@@ -474,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:17 AM UTC
+			2023/2/2 12:15 AM UTC
 		</td>
 		<td>
 			0
@@ -490,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/1 12:17 AM UTC
+			2023/2/2 12:15 AM UTC
 		</td>
 		<td>
 			11
@@ -501,7 +485,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/2/3 6:07 PM UTC</i></small>
+<small><i>Last updated on 2023/2/4 12:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
