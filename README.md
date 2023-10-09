@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/548372410/year.md">
+				codecademy-learn-react-2022
+			</a>
+		</td>
+		<td>
+			2023/10/7 12:10 AM UTC
+		</td>
+		<td>
+			37
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/548372410/small/year.png" height="20"> 493
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/419855223/year.md">
 				coding-interview-preparation
 			</a>
@@ -49,6 +65,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/419855223/small/year.png" height="20"> 132
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/415975168/year.md">
+				complete-javascript-course-2021
+			</a>
+		</td>
+		<td>
+			2023/10/7 12:10 AM UTC
+		</td>
+		<td>
+			1011
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 4486
 		</td>
 	</tr>
 	<tr>
@@ -469,7 +501,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/9 12:08 PM UTC</i></small>
+<small><i>Last updated on 2023/10/9 6:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
