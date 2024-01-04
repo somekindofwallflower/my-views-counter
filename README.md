@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:12 AM UTC
+			2024/1/2 12:11 AM UTC
 		</td>
 		<td>
 			30
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:12 AM UTC
+			2024/1/2 12:11 AM UTC
 		</td>
 		<td>
 			40
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:12 AM UTC
+			2024/1/2 12:11 AM UTC
 		</td>
 		<td>
 			53
@@ -74,13 +74,173 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:00 AM UTC
+			2024/1/2 12:00 AM UTC
 		</td>
 		<td>
-			1085
+			1086
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 5072
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/415975168/small/year.png" height="20"> 5082
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/505335448/year.md">
+				complete-react-guide
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:11 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/505335448/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435672982/year.md">
+				course-goals-react-project
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:11 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435672982/small/year.png" height="20"> 98
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/420033469/year.md">
+				curriculum-vitae
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			25
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/420033469/small/year.png" height="20"> 60
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435666261/year.md">
+				expenses-react-project
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435666261/small/year.png" height="20"> 29
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/445301973/year.md">
+				free-code-camp
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			32
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/445301973/small/year.png" height="20"> 132
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435050698/year.md">
+				codecademy-full-stack-engineer
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			503
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435050698/small/year.png" height="20"> 2013
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434376698/year.md">
+				guess-my-number
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			122
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434376698/small/year.png" height="20"> 319
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435674792/year.md">
+				instagram-clone-laravel-project
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			53
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435674792/small/year.png" height="20"> 169
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/451603613/year.md">
+				interview_questions_2022
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:12 AM UTC
+		</td>
+		<td>
+			41
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/451603613/small/year.png" height="20"> 68
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/450834448/year.md">
+				javascript-algorithms-and-data-structures
+			</a>
+		</td>
+		<td>
+			2024/1/2 12:00 AM UTC
+		</td>
+		<td>
+			142
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/450834448/small/year.png" height="20"> 528
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:14 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			64
@@ -106,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:14 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			11
@@ -122,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:14 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			8
@@ -138,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:14 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			29
@@ -154,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:14 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			1
@@ -170,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			184
@@ -186,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			29
@@ -202,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:13 AM UTC
 		</td>
 		<td>
 			18
@@ -218,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			313
@@ -234,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			405
@@ -250,13 +410,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:00 AM UTC
 		</td>
 		<td>
-			555
+			556
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434991359/small/year.png" height="20"> 1877
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434991359/small/year.png" height="20"> 1878
 		</td>
 	</tr>
 	<tr>
@@ -266,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:15 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			7
@@ -282,13 +442,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:00 AM UTC
+			2024/1/2 12:00 AM UTC
 		</td>
 		<td>
-			914
+			915
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 3557
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 3558
 		</td>
 	</tr>
 	<tr>
@@ -298,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:16 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			26
@@ -314,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:16 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			0
@@ -330,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/1/1 12:16 AM UTC
+			2024/1/2 12:14 AM UTC
 		</td>
 		<td>
 			15
@@ -341,7 +501,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/3 6:05 PM UTC</i></small>
+<small><i>Last updated on 2024/1/4 12:14 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
