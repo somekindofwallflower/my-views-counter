@@ -21,44 +21,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/540768760/year.md">
-				codecademy-courses
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:13 AM UTC
-		</td>
-		<td>
-			52
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/540768760/small/year.png" height="20"> 80
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/548372410/year.md">
-				codecademy-learn-react-2022
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:13 AM UTC
-		</td>
-		<td>
-			65
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/548372410/small/year.png" height="20"> 891
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/419855223/year.md">
 				coding-interview-preparation
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:13 AM UTC
+			2025/1/5 12:15 AM UTC
 		</td>
 		<td>
 			60
@@ -74,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:00 AM UTC
+			2025/1/5 12:15 AM UTC
 		</td>
 		<td>
 			1308
@@ -85,28 +53,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/505335448/year.md">
-				complete-react-guide
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/505335448/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435672982/year.md">
 				course-goals-react-project
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:14 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			9
@@ -122,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:14 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			26
@@ -138,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:14 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			9
@@ -154,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:14 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			33
@@ -170,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:00 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			602
@@ -186,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:14 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			139
@@ -202,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:15 AM UTC
+			2025/1/5 12:16 AM UTC
 		</td>
 		<td>
 			58
@@ -218,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:15 AM UTC
+			2025/1/5 12:17 AM UTC
 		</td>
 		<td>
 			42
@@ -234,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:15 AM UTC
+			2025/1/5 12:17 AM UTC
 		</td>
 		<td>
 			169
@@ -245,92 +197,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434374207/year.md">
-				javascript-projects
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:15 AM UTC
-		</td>
-		<td>
-			83
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434374207/small/year.png" height="20"> 106
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435530501/year.md">
-				javascript-unit-testing
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:15 AM UTC
-		</td>
-		<td>
-			25
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435530501/small/year.png" height="20"> 62
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/540201371/year.md">
-				k8sdemo
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:15 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/540201371/small/year.png" height="20"> 12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/546235708/year.md">
-				Learn-DevOps-Docker-Kubernetes-Terraform-and-Azure-DevOps-2022
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:15 AM UTC
-		</td>
-		<td>
-			37
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/546235708/small/year.png" height="20"> 76
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/538674926/year.md">
-				live-score
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:15 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/538674926/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/500419354/year.md">
 				microservices-with-node-js-and-react
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:18 AM UTC
 		</td>
 		<td>
 			236
@@ -341,44 +213,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/434401511/year.md">
-				modal-window
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:16 AM UTC
-		</td>
-		<td>
-			40
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434401511/small/year.png" height="20"> 90
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435676856/year.md">
-				movies-react-project
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:16 AM UTC
-		</td>
-		<td>
-			22
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435676856/small/year.png" height="20"> 82
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/439741534/year.md">
 				my-views-counter
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:18 AM UTC
 		</td>
 		<td>
 			366
@@ -394,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:18 AM UTC
 		</td>
 		<td>
 			483
@@ -410,13 +250,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:00 AM UTC
 		</td>
 		<td>
-			741
+			742
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434991359/small/year.png" height="20"> 2609
+			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/434991359/small/year.png" height="20"> 2615
 		</td>
 	</tr>
 	<tr>
@@ -426,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:18 AM UTC
 		</td>
 		<td>
 			7
@@ -437,28 +277,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435539709/year.md">
-				somekindofwallflower
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:16 AM UTC
-		</td>
-		<td>
-			982
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/435539709/small/year.png" height="20"> 3855
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/435679895/year.md">
 				todo-android-app-kotlin
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:16 AM UTC
+			2025/1/5 12:19 AM UTC
 		</td>
 		<td>
 			30
@@ -469,28 +293,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/455232029/year.md">
-				Todos-React-TypeScript
-			</a>
-		</td>
-		<td>
-			2025/1/4 12:17 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/somekindofwallflower/my-views-counter/raw/master/graph/455232029/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/somekindofwallflower/my-views-counter/tree/master/readme/450260592/year.md">
 				vr-project
 			</a>
 		</td>
 		<td>
-			2025/1/4 12:17 AM UTC
+			2025/1/5 12:19 AM UTC
 		</td>
 		<td>
 			19
@@ -501,7 +309,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/1/6 6:08 PM UTC</i></small>
+<small><i>Last updated on 2025/1/7 12:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
